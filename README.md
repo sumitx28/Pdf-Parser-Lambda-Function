@@ -1,5 +1,14 @@
 # PDF-PARSER Lambda
 
+- Lambda Function to parse images from a pdf as required by the company (FreshPrints).
+- Moved the Functionality from EC2 to Lambda which resulted in 96% cost reduction as compared to EC2.
+- Reduced time taken to parse images.
+- Sample PDF's attached.
+
+# Deployment
+
+- Deployed on AWS Lambda using Docker Container Image
+
 ## Project Structure
 
 # api/
@@ -10,11 +19,6 @@
 - ImageDimensions.ts
 - ResponseObject.ts
 - Result.ts
-
-# 2. pdf-parser.ts
-
-- `POST - /pdf-parser`
-- Payload - `base64` , `needClientImages` , `needTransparentImages`
 
 # 2. image-parser.ts
 
