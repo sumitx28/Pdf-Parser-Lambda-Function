@@ -5,6 +5,9 @@
 - Reduced time taken to parse images.
 - Sample PDF's attached.
 
+## DEMO
+<img src="https://github.com/sumitx28/Pdf-Parser-Lambda-Function/blob/main/pdf-parser-demo.gif" width="500" height="250" />
+
 # Deployment
 
 - Deployed on AWS Lambda using Docker Container Image
