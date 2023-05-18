@@ -6,7 +6,7 @@
 - Sample PDF's attached.
 
 ## DEMO
-<img src="https://github.com/sumitx28/Pdf-Parser-Lambda-Function/blob/main/pdf-parser-demo.gif" width="500" height="250" />
+<img src="https://github.com/sumitx28/Pdf-Parser-Lambda-Function/blob/main/pdf-parser-demo.gif" width="400" height="200" />
 
 # Deployment
 
